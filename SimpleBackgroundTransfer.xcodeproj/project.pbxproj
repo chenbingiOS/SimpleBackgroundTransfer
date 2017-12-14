@@ -12,8 +12,8 @@
 		07144F071FE0D33B00680F28 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07144F061FE0D33B00680F28 /* Assets.xcassets */; };
 		07144F0A1FE0D33B00680F28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07144F081FE0D33B00680F28 /* LaunchScreen.storyboard */; };
 		07144F0D1FE0D33B00680F28 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 07144F0C1FE0D33B00680F28 /* main.m */; };
-		07144F141FE0D3AB00680F28 /* ReadMe.txt in Resources */ = {isa = PBXBuildFile; fileRef = 07144F131FE0D3AB00680F28 /* ReadMe.txt */; };
 		07144F171FE0D41D00680F28 /* CBAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 07144F161FE0D41D00680F28 /* CBAppDelegate.m */; };
+		0769ED321FE23CAD00F07005 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0769ED311FE23CAD00F07005 /* README.md */; };
 		078DEFE91FE2138C007C64DC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 078DEFE81FE2138C007C64DC /* UIKit.framework */; };
 		078DEFEB1FE21397007C64DC /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 078DEFEA1FE21397007C64DC /* CoreGraphics.framework */; };
 		078DEFED1FE2139D007C64DC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 078DEFEC1FE2139D007C64DC /* Foundation.framework */; };
@@ -28,9 +28,9 @@
 		07144F091FE0D33B00680F28 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		07144F0B1FE0D33B00680F28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		07144F0C1FE0D33B00680F28 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		07144F131FE0D3AB00680F28 /* ReadMe.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; };
 		07144F151FE0D41D00680F28 /* CBAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CBAppDelegate.h; sourceTree = "<group>"; };
 		07144F161FE0D41D00680F28 /* CBAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CBAppDelegate.m; sourceTree = "<group>"; };
+		0769ED311FE23CAD00F07005 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		078DEFE61FE2132A007C64DC /* SimpleBackgroundTransfer-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SimpleBackgroundTransfer-Prefix.pch"; sourceTree = "<group>"; };
 		078DEFE81FE2138C007C64DC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		078DEFEA1FE21397007C64DC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -54,7 +54,7 @@
 		07144EF11FE0D33B00680F28 = {
 			isa = PBXGroup;
 			children = (
-				07144F131FE0D3AB00680F28 /* ReadMe.txt */,
+				0769ED311FE23CAD00F07005 /* README.md */,
 				07144EFC1FE0D33B00680F28 /* SimpleBackgroundTransfer */,
 				07144EFB1FE0D33B00680F28 /* Products */,
 				078DEFE71FE2138C007C64DC /* Frameworks */,
@@ -157,7 +157,7 @@
 			files = (
 				07144F0A1FE0D33B00680F28 /* LaunchScreen.storyboard in Resources */,
 				07144F071FE0D33B00680F28 /* Assets.xcassets in Resources */,
-				07144F141FE0D3AB00680F28 /* ReadMe.txt in Resources */,
+				0769ED321FE23CAD00F07005 /* README.md in Resources */,
 				07144F051FE0D33B00680F28 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
