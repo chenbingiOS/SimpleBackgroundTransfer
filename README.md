@@ -1,0 +1,3 @@
+"SimpleBackgroundTransfer" illustrates how to support Background Transfer using NSURLSession to manage a download task
+
+SimpleBackgroundTransfer 演示了如何使用NSURLSession来支持后台传输来管理一个下载任务
